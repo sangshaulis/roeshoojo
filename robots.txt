@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phanoivua.codehez.cn/sitemap.xml
